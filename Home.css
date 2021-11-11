@@ -155,6 +155,7 @@
 .u-section-2 .u-image-1 {
   min-height: 594px;
   background-image: url("images/8a77edcbeca236e55a46d3e3b4ca4dd77edd34bf5ce045c952891d232b72595906af2f498f5d0dd340962c20299f76c16450fca5132daf67b2eadd_1280.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-2 .u-container-layout-1 {
@@ -1103,8 +1104,8 @@
 
 .u-section-7 .u-text-3 {
   font-size: 3.75rem;
-  width: 145px;
   font-weight: 700;
+  width: 145px;
   margin: 20px auto 0;
 }
 
